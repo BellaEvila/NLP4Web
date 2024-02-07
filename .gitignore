@@ -1,2 +1,6 @@
 venv/*
 nlp4web/*
+*/tmp
+*/transformers
+dev_file.json
+train_file.json
